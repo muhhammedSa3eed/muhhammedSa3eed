@@ -1,91 +1,94 @@
-<h2 align="center">Hi 👋! My name is Mohamed and I'm a FrontEnd Developer</h2>
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZyN2p3c3d2bTF6Y3N4aXh2c2U4c3R0cnd5cXR2eGd1YzZtZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif"/>
 
-###
+<h2 align="center">Hi, I'm Muhhammed Ahmed 👋</h2>
 
-<h3 align="left">My Profiles</h3>
+<h3 align="center">
+Frontend Developer | React.js • Next.js • TypeScript • Tailwind CSS
+</h3>
 
-###
+<p align="center">
+Clean Code • Smooth UX • Performance First
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/muhhammed--ahmed/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+### 📬 Contact Me
+<p align="center">
+  <a href="https://www.muhhammed.me/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/muhhammed.a.saeed" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <a href="https://www.linkedin.com/in/muhhammed--ahmed/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.link/aaosmq" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <a href="https://github.com/muhhammedSa3eed">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:mohamedsa3eed013@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/01060119789" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
+</p>
 
-###
+---
 
-<h3 align="left">Languages</h3>
+### 👨‍💻 About Me
+- 🎯 Frontend Developer focused on **React.js & Next.js**
+- 🧠 Expertise in **components, state management, API integration, and Canvas/SVG graphics**
+- 🎫 Passionate about **clean code, performance optimization, and web accessibility**
+- 🚀 Building interactive tools and delivering real-world projects
+- 📈 Currently at **Neuss for App Development**
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="35" alt="css logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="35" alt="sass logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="35" alt="jquery logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="35" alt="typescript logo"  />
-</div>
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35"/>
+</p>
 
-###
+---
 
-<h3 align="left">Frameworks</h3>
+### 💼 Experience
+**Neuss for App Development — Frontend Web Developer**  
+*Jul 2025 – Present*  
+- Building modern, responsive web applications
+- React.js, Next.js, TypeScript, Tailwind CSS
+- Collaborating with designers and backend developers
 
-###
+**Freelance Frontend Developer**  
+- Building interactive design tools with Canvas & SVG
+- Creating responsive, accessible UI components
+- Optimizing performance and implementing SEO best practices
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="35" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="35" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="35" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="35" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="35" alt="angularjs logo"  />
-</div>
+---
 
-###
+### 🎓 Education
+**Suez Canal University**  
+*Bachelor's Degree in Computer Software Engineering (Oct 2021 - Jun 2025)*  
+- GPA: 3.1
+- Activities: Web Development Club, Frontend Development Focus Group
+- Specialization: React.js, Next.js, Modern Web Technologies
 
-<h3 align="left">Tools</h3>
+---
 
-###
+### 📜 Certifications
+- Frontend Development Diploma — Route IT Training Center (Jul 2025)
+- Freelancing Basics — Mahara Tech (Mar 2025)
+- HTML & CSS Fundamentals — Elzero Web School
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="35" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="35" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="35" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="35" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="35" alt="postman logo"  />
-</div>
+---
 
-###
+### 📈 Featured Projects
+- **Interactive Design Tools** - Canvas API & Fabric.js graphics manipulation
+- **Data Visualization Dashboards** - Real-time data with Next.js & Redux
+- **Responsive Web Applications** - Performance-optimized React apps
 
-<img align="middle" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWd4bDZpcGc2Z21pcms2enFxMm5wYjhuMmU4NTRpaXZ5NWh5cjQ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+---
 
-###
-
-
-
-
+<p align="center">
+✨ Passionate about building amazing digital experiences ✨
+</p>
